@@ -267,7 +267,7 @@ body {
    ========================================================================== */
 
 .hero-section {
-    padding-top: 190px; 
+    padding-top: 100px; 
     padding-bottom: 0px;
     display: flex;
     align-items: center;
@@ -355,7 +355,7 @@ body {
     max-width: 500px;
     display: block;
     margin: 0 auto;
-    transform: scale(1.2);
+    transform: scale(1.05);
     transform-origin: bottom center;
 }
 
